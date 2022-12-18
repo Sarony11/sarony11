@@ -3,16 +3,25 @@
   <h4 align="center">DevOps & SRE Engineer, Architect, Consultant and Sith Lord</h4>
 </p>
 
-- 👨‍💻 My website []()
+## **You can find me ...** 
 
-- 📫 How to reach me **sarony11@gmail.com**
+| 🌐[SAULFERNANDEZ.ME](https://saulfernandez.me) | 📫[EMAIL](mailto:sarony11@gmail.com) | 👨‍💻[LINKEDIN](https://www.linkedin.com/in/saul-fernandez-martinez/) | 🖊️[DEV.TO](https://dev.to/sarony11) |
+| --- | --- | --- | --- |
 
-<h3 align="left">Connect with me and other DevOps/SRE/Infra people:</h3>
-<p align="left">
-<a href="https://discord.gg/VEEnHkPzY6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VEEnHkPzY6" height="30" width="40" /></a>
-</p>
+## **Those are my dark powers**
 
-<!--
+| FIELD | POWERS |
+| --- | --- |
+| PROVIDERS | AWS, GCP, DIGITALOCEAN |
+| PROGRAMMING | SHELL, PYTHON |
+| IaC | ANSIBLE, TERRAFORM, SPICELIFT |
+| CONTAINERS | DOCKER, KUBERNETES |
+| CI/CD | GITHUB ACTIONS, FLUXCD |
+| SERVICES | RABBITMQ, ELASTICSEARCH |
+| MONITORING | PROMETHEUS, GRAFANA, LOKI, GRAYLOG, ICINGA |
+
+
+<!--  
 **Sarony11/sarony11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
