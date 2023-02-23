@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center"> Hi 👋, I'm Saul Fernandez</h2>
-  <h4 align="center">DevOps & SRE Engineer, Architect, Consultant and Lord sith automating the dark side of the infrastructure.</h4>
+  <h4 align="center">DevOps & SRE Engineer, Cloud Architect, Consultant and Sith Lord automating the dark side of the infrastructure.</h4>
 </p>
 
 <center>
@@ -20,11 +20,11 @@
 | --- | --- |
 | PROVIDERS | AWS, GCP, DIGITALOCEAN |
 | PROGRAMMING | SHELL, PYTHON |
-| IaC | ANSIBLE, TERRAFORM, SPACELIFT |
-| CONTAINERS | DOCKER, KUBERNETES |
-| CI/CD | GITHUB ACTIONS, GITOPS, FLUXCD |
+| IaC | ANSIBLE, TERRAFORM |
+| CONTAINERS | DOCKER, KUBERNETES, HELM, KEDA, ARGOCD, FLUXCD |
+| CI/CD | GITHUB ACTIONS, GITOPS, SPACELIFT |
 | SERVICES | PUB/SUB, RABBITMQ, ELASTICSEARCH, REDIS |
-| MONITORING | PROMETHEUS, GRAFANA, LOKI, GRAYLOG, ICINGA |
+| MONITORING | DATADOG, PROMETHEUS, GRAFANA, LOKI, GRAYLOG, ICINGA |
 
 </center>
 <!--  
@@ -38,6 +38,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
