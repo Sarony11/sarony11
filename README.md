@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center"> Hi 👋, I'm Saul Fernandez</h2>
-  <h4 align="center">MLOps & SRE & DevOps Engineer, Cloud Architect, Consultant and Sith Lord automating the dark side of the infrastructure.</h4>
+  <h4 align="center">MLOps & SRE & DevOps Engineer, Cloud Architect, Consultant and Sith Lord automating the dark side of infrastructure.</h4>
 </p>
 
 - 💡 I enjoy collaborating with cross-functional teams and finding solutions to complex problems.
